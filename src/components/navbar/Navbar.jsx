@@ -31,7 +31,7 @@ const Navbar = () => {
               <p><a href="#wgpt3">A Propos</a></p>
               <p><a href="#possibility">Métier d&apos;Avenir</a></p>
               <p><a href="#features">Formations</a></p>
-              <p><a href="#blog">Bibliothèque</a></p>
+              <p><a href="#blog">Activités</a></p>
             </div>
             <div className="gpt3__navbar-menu_container-links-sign">
               <p>S&apos;identifier</p>

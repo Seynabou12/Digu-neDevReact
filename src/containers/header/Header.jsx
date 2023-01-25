@@ -7,7 +7,7 @@ const Header = () => (
   <div className="gpt3__header section__padding" id="home">
     <div className="gpt3__header-content">
       <div className="gpt3__whatgpt3-heading">
-        <h1 className="gradient__text">Construisons quelque chose d&apos;incroyable avec DJIGUEN-DEV</h1>
+        <h1 className="gradient__text">Construisons quelque chose d&apos;incroyable avec le DJIGUEN-DEV</h1>
       </div>
       <p>Pourtant, lit tout pour l&apos;indulgence de l&apos;assistance voyage déplaisante. Toutes les pensées n&apos;exercent pas de bénédiction. Indulgence façon tout changement de joie bruyant l&apos;attachement. Parti nous années pour commander permettent demandé.</p>
 
